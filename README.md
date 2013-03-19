@@ -1,6 +1,10 @@
-THE MAIN GOAL OF THIS FORK IS TO BRING BACK THE `-r` OPTION AND BRING BACK JUSTICE TO THE WORLD AND DO OTHER SHIT. 
+THE MAIN GOAL OF THIS FORK IS TO BRING BACK THE `-r` OPTION AND BRING BACK JUSTICE TO THE WORLD AND DO OTHER SHIT
+=================================================================================================================
 
-AND IT WILL BE MERGED REGULARLY.
+AND IT WILL BE MERGED REGULARLY
+-------------------------------
+
+`-r` can do magic by requiring a coffeescript file before the compilation starts. For example you might have a compilation hook to trigger Coffeelint and send desktop/push notification with a summary of the compilation and lint result.
 
 
 
