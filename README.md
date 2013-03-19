@@ -5,7 +5,7 @@ AND IT WILL BE MERGED REGULARLY.
 --------------------------------
 
 
-`-r` can do magic by requiring a coffeescript file before the compilation starts. For example you might have a compilation hook to trigger Coffeelint and send desktop/push notification with a summary of the compilation and lint result.
+`-r` can do magic by requiring a coffeescript file before the compilation starts. For example you might have a compilation hook (useful with `-w`) to trigger Coffeelint and send desktop/push notification with a summary of the compilation and lint result.
 
 
 
