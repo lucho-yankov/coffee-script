@@ -1,5 +1,5 @@
-THE MAIN GOAL OF THIS FORK IS TO BRING BACK THE `-r` OPTION AND BRING BACK JUSTICE TO THE WORLD AND DO OTHER SHIT.
-==================================================================================================================
+THE MAIN GOAL OF THIS FORK IS TO BRING BACK THE `-r` OPTION (COMPILER HOOK) AND BRING BACK JUSTICE TO THE WORLD AND DO OTHER SHIT.
+==================================================================================================================================
 
 AND IT WILL BE MERGED REGULARLY.
 --------------------------------
